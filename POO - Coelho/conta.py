@@ -1,8 +1,3 @@
-# teste
-
-
-
-
 class ContaBancaria:
 
     __slots__ = ['agencia', 'numero', 'titular', 'saldo']
