@@ -11,4 +11,4 @@ function receberAluno(aluno) {
 
 
 
-console.log(receberAluno('Guilherme'))
+console.log(receberAluno())
