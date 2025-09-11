@@ -1,8 +1,8 @@
 
-const botao = document.querySelector('[data-butao]')
+const botao = document.querySelector('[data-botao]')
 
 botao.addEventListener('click', () => {
-    const input = document.querySelector('[data-item-compra]');
+    const input = document.querySelector('[data-novo-item]');
     const valorInput = input.value
     input.value = ''
 

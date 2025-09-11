@@ -1,0 +1,45 @@
+body {
+    background-color: #051D28;
+    color: #F4F5D0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin: 0px;
+}
+
+hr {
+    border: 1px solid #1F363F;
+}
+
+input {
+    background-color: #F4F5D0;
+    border: none;
+    height: 30px;
+}
+
+button {
+    background-color: #F4F5D0;
+    border: none;
+    height: 32px;
+    text-transform: uppercase;
+}
+
+.quadro-das-compras {
+    background-color: #1F363F;
+    padding: 2px;
+    margin: 15px 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul, li {
+    margin: 15px 0px;
+}
+
+.form {
+    width: 100%;
+    text-align: center;
+}
